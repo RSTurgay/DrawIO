@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-29T08:21:57.377Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 OPR/108.0.0.0" etag="XGa5Rla_WrFNlCvUlgVD" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-29T08:22:44.777Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 OPR/108.0.0.0" etag="Bkc_DYhuz6SAmoJrjUKb" version="24.2.1" type="github">
   <diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">
     <mxGraphModel dx="1150" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -77,10 +77,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vdj9q_atu6wUsFnDW9EK-75" value="" style="swimlane;startSize=0;strokeColor=#6c8ebf;fillColor=#dae8fc;gradientColor=#7ea6e0;" vertex="1" parent="1">
-          <mxGeometry x="10" y="190" width="380" height="550" as="geometry" />
+          <mxGeometry x="12.5" y="190" width="380" height="550" as="geometry" />
         </mxCell>
-        <mxCell id="vdj9q_atu6wUsFnDW9EK-78" value="LiveData" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;strokeColor=#BAC8D3;fontColor=#182E3E;" vertex="1" parent="vdj9q_atu6wUsFnDW9EK-75">
-          <mxGeometry x="10" y="17" width="130" height="182" as="geometry" />
+        <mxCell id="vdj9q_atu6wUsFnDW9EK-78" value="LiveData" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#dae8fc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="vdj9q_atu6wUsFnDW9EK-75">
+          <mxGeometry x="10" y="53" width="130" height="182" as="geometry" />
         </mxCell>
         <mxCell id="vdj9q_atu6wUsFnDW9EK-79" value="Value" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#182E3E;" vertex="1" parent="vdj9q_atu6wUsFnDW9EK-78">
           <mxGeometry y="26" width="130" height="26" as="geometry" />
@@ -99,6 +99,9 @@
         </mxCell>
         <mxCell id="vdj9q_atu6wUsFnDW9EK-96" value="Avr Operation Cycle" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#182E3E;" vertex="1" parent="vdj9q_atu6wUsFnDW9EK-78">
           <mxGeometry y="156" width="130" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="vdj9q_atu6wUsFnDW9EK-97" value="&lt;h2&gt;TOPICS&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#182E3E;" vertex="1" parent="vdj9q_atu6wUsFnDW9EK-75">
+          <mxGeometry x="140" y="-7" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
